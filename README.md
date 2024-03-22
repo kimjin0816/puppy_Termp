@@ -17,6 +17,9 @@
 ## 알고리즘
 ![](puppy_Termp/README_image/algorizm.png)
 
+## 실행영상
+<img src = "https://gifmaker.me/video-to-gif/viewimage/20240321-11-GpTxOGQ62O7XCXek-F60Cib-HNET">
+
 ## 화면 구성및 흐름
 ### 시작 화면
 ![](puppy_Termp/README_image/screen1.png)
